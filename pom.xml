@@ -56,7 +56,7 @@
         <keycloak-spring-security-adapter.version>21.0.2</keycloak-spring-security-adapter.version>
         <org.keycloak.version>16.1.0</org.keycloak.version>
         <commons-validator.version>1.7</commons-validator.version>
-        <org.elasticsearch.version>8.14.0</org.elasticsearch.version>
+        <org.elasticsearch.version>8.15.1</org.elasticsearch.version>
         <paypal-checkout-sdk.version>2.0.0</paypal-checkout-sdk.version>
         <testcontainers-keycloak.version>3.3.0</testcontainers-keycloak.version>
         <rest-assured.version>5.4.0</rest-assured.version>
